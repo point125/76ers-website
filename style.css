@@ -1,0 +1,112 @@
+body {background-image:url("https://whyy.org/wp-content/uploads/2018/09/AP_18264672962883-1-768x528.jpg");
+/* font-family: 'PT Sans Narrow', sans-serif; */
+/*        font-family: 'Noto Serif JP', serif; */
+/* font-family: 'Anton', sans-serif; */
+       font-family: 'Monoton', cursive;
+color:86BBD8} 
+h1{color: white;}
+h2{color: blue;}
+.homepage{
+       background-color: red;
+height:10%;
+/* width:5%;   */
+       text-align:center;
+       padding: 15px;
+       border-bottom: blue 1px solid
+}
+
+.TeamRosterdiv{background-color: black}
+.Aboutdiv{background-color:black}
+.nav {
+  background-color:silver;
+  text-align:right;
+  margin:0;
+}
+
+a {
+  text-decoration:none;
+}
+a:hover{
+  color:black;
+  font-size:15px;
+  transition:1s;
+}
+.footer {
+  background: linear-gradient(90deg, rgba(237,7,19,1) 0%, rgba(233,124,5,1) 17%, rgba(245,4,44,1) 100%);
+  font-size:100%;
+  width:100%;
+  color:black;
+}
+.footer h2 {
+  
+} 
+
+.main {
+       height:800px;
+       background-color:red;
+}
+
+.main h1 {
+       font-size:90px;
+}
+body {
+       margin:0;
+}
+.about-container { 
+       background-color:white;
+       height:400px;
+       width:100%;        
+}
+.about-container img {
+  width:50%;
+  float:left;
+  height:400px;
+}
+.right-container{
+       background-color:red;
+       float:right;
+       width:50%;
+       height:400px;
+}
+.right-container h2 {
+       text-align:center;
+}
+body {
+  margin:0;
+}
+.container {
+  height:400px;
+  width:100%;
+  background-color:red;
+}
+
+.left {
+  
+  height:400px;
+  width:33%;
+  background-color:blue;
+}
+.left img {
+  display:inline-block;
+  height:100px;
+}
+.center {
+  display:inline-block;
+  height:400px;
+  width:33%;
+  background-color:white;
+  
+}
+.right {
+   display:inline-block;
+  height:400px;
+  width:33%;
+  background-color:black;
+}
+
+.player {
+       background-color:white;
+}
+.player-pic {
+       height:200px;
+}
